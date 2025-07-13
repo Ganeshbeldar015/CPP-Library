@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Workspace/C++/02_FirstProgram",
-      "program": "d:/Workspace/C++/02_FirstProgram/build/Debug/outDebug",
+      "cwd": "d:/Workspace/C++/08_PattenPrinting",
+      "program": "d:/Workspace/C++/08_PattenPrinting/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
